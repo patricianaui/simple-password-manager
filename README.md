@@ -7,7 +7,7 @@ A simple command-line password manager using C.
 - Simple text-based interface
 
 ## Requirements
-- C compiler like GCC
+- (Optional) A text editor if you want to view or edit the 'credentials.txt' file.
 
 ## How to Use
 1. Download the .exe file.
